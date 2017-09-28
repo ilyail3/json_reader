@@ -1,0 +1,6 @@
+[package]
+name = "json_reader"
+version = "0.1.0"
+authors = ["Ilya Krammer <ilyail3@gmail.com>"]
+
+[dependencies]
